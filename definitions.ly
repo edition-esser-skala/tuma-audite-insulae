@@ -2,11 +2,14 @@
 
 #(define option-movement-title-format "title")
 #(define option-init-toc #t)
-#(define option-print-all-bar-numbers #t)
+#(define option-print-all-bar-numbers #f)
 \include "ees.ly"
 
 
 tempoAudite = \tempoMarkup "Vivace"
+tempoDominus = \tempoMarkup "Andante"
+tempoNon = \tempoMarkup "Andante"
+tempoAlleluia = \tempoMarkup "Allegro"
 
 
 \include "notes/cnto.ly"

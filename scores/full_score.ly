@@ -6,7 +6,7 @@
 \book {
   \bookpart {
     \section "Audite insulæ"
-    % \addTocEntry
+    \addTocEntry
     \paper { indent = 3\cm }
     \score {
       <<
