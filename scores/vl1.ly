@@ -8,7 +8,7 @@
   \bookpart {
     \section "Audite insulæ"
     \addTocEntry
-    \paper { indent = 2\cm }
+    \paper { page-count = #2 indent = 2\cm }
     \score {
       <<
         \new Staff {

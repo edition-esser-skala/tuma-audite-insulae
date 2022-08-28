@@ -1,8 +1,8 @@
 composer:
   last: Tůma
   first: František Ignác Antonín
-title: Audite factori omnium
-subtitle: Motetto de S: Joanne Baptistæ
+title: Audite insulæ
+subtitle: "Motetto de S: Joanne Baptistæ"
 genre: motet
 scoring: A (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
 license: cc-by-sa-4.0
@@ -15,4 +15,4 @@ sources:
     license: public domain
     principal: true
     notes: parts for A solo, S rip, A rip, T rip, B rip, cnto, fag, trb1, trb 2, vl 1, vl 2, vlc, vlne, org, and maestro di cappella
-imslp:
+imslp: Audite_insulae_(Tůma,_František_Ignác_Antonín)
